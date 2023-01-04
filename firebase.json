@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "../Teavala",
+    "public": "../TeavalaWeb",
     "ignore": [
       "firebase.json",
       "**/.*",
